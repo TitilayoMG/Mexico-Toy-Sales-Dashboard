@@ -22,5 +22,20 @@ Power BI Concepts like;
 * Transforming and cleaning data using Power Query Editor.
 * Merging tables to combine data from multiple sources.
 * Creating DAX functions for aggregation, filtering, and calculations.
-* Designing dashboards for a cohesive view of key performance indicators.
+* Creating key performance indicators (KPIs) and other business calculations
+* Designing dashboard for a cohesive view of key performance indicators.
 * Translating business requirements into dashboard specifications.
+* Data visualization
+
+## Data Transformation
+Imported the file into Power BI through Text/CSV then clicked on 'Tranform Data' and added other datasets into Power Query Editor.
+I transformed the data in Power Query, checked for Colum quality and consistency of data types
+Merged inventory and product table to calculate the cost of inventory as it’s only product table that contains the amount
+Also merged sales and product table to get the sold product and some business calculations.
+* Merged Tables
+
+On Power BI, created measures using DAX.
+
+## Data Analysis 
+
+
