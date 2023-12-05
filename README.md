@@ -37,5 +37,16 @@ Also merged sales and product table to get the sold product and some business ca
 On Power BI, created measures using DAX.
 
 ## Data Analysis 
+Several expressions and functions were made to arrive at the desired KPI or Metrics.
+
+## Data visualization
+The dashboard highlight the key Performance Indicators. It shows the total revenue the company generated all through the financial year, the profit, total cost incurred, number of stores, number of product categories, the quantities of product sold and total number of product sold.
+* Dashboard
+
+## Analysis 
 
 
+## Recommendation
+
+## Thank you for reading.
+I am open for data roles.
