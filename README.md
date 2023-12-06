@@ -31,13 +31,13 @@ Power BI Concepts like;
 Imported the file into Power BI through Text/CSV then clicked on 'Tranform Data' and added other datasets into Power Query Editor.
 I transformed the data in Power Query, checked for Colum quality and consistency of data types
 Merged inventory and product table to calculate the cost of inventory as it’s only product table that contains the amount
-Also merged sales and product table to get the sold product and some business calculations.
+Also in Power Query, I merged sales and product table to get sold product and some business calculations.
 * Merged Tables
+![](tables merged.PNG)
 
-On Power BI, created measures using DAX.
 
 ## Data Analysis 
-Several expressions and functions were made to arrive at the desired KPI or Metrics.
+On Power BI, created measures using DAX. Several expressions and functions were made to arrive at the desired KPI or Metrics.
 
 ## Data visualization
 The dashboard highlight the key Performance Indicators. It shows the total revenue the company generated all through the financial year, the profit, total cost incurred, number of stores, number of product categories, the quantities of product sold and total number of product sold.
