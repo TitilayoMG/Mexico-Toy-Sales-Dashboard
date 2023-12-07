@@ -32,8 +32,8 @@ Imported the file into Power BI through Text/CSV then clicked on 'Tranform Data'
 I transformed the data in Power Query, checked for Colum quality and consistency of data types
 Merged inventory and product table to calculate the cost of inventory as it’s only product table that contains the amount
 Also in Power Query, I merged sales and product table to get sold product and some business calculations.
-* Merged Tables
-![](tables merged.PNG)
+
+![](toy DAX.PNG)
 
 
 ## Data Analysis 
@@ -41,7 +41,9 @@ On Power BI, created measures using DAX. Several expressions and functions were 
 
 ## Data visualization
 The dashboard highlight the key Performance Indicators. It shows the total revenue the company generated all through the financial year, the profit, total cost incurred, number of stores, number of product categories, the quantities of product sold and total number of product sold.
-* Dashboard
+
+![]([toy Dashboard.PNG](https://github.com/TitilayoMG/Mexico-Toy-Sales-Dashboard#:~:text=yesterday-,toy%20Dashboard.PNG,-Add%20files%20via)https://github.com/TitilayoMG/Mexico-Toy-Sales-Dashboard#:~:text=yesterday-,toy%20Dashboard.PNG,-Add%20files%20via)
+
 
 ## Analysis 
 
