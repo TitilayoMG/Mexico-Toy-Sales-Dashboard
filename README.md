@@ -4,7 +4,8 @@ This analysis is for a chain of toy stores in Mexico called Maven Toys. The dash
 ![](man-using-digital-tablet.jpg)
 
 ## Introduction
-This is sales analysis dashboard analyzed on Power BI. The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location. The dashboard is titled ‘Maven Toys Sales Dashboard’.
+This sales analysis dashboard was analyzed on Power BI. The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location. The dashboard is titled ‘Maven Toys Sales Dashboard’.
+
 This project shows my ability to create dashboards with well-defined KPIs to provide a clear and measurable way to assess performance. I was able to align the dashboard with the organization's strategic objectives by highlighting the most critical metrics that directly contribute to business goals.
 
 ## Problem Statement
@@ -33,7 +34,7 @@ I transformed the data in Power Query, checked for Colum quality and consistency
 Merged inventory and product table to calculate the cost of inventory as it’s only product table that contains the amount
 Also in Power Query, I merged sales and product table to get sold product and some business calculations.
 
-![](toy DAX.PNG)
+![](tables merged.PNG)
 
 
 ## Data Analysis 
@@ -42,7 +43,7 @@ On Power BI, created measures using DAX. Several expressions and functions were 
 ## Data visualization
 The dashboard highlight the key Performance Indicators. It shows the total revenue the company generated all through the financial year, the profit, total cost incurred, number of stores, number of product categories, the quantities of product sold and total number of product sold.
 
-![]([toy Dashboard.PNG](https://github.com/TitilayoMG/Mexico-Toy-Sales-Dashboard#:~:text=yesterday-,toy%20Dashboard.PNG,-Add%20files%20via)https://github.com/TitilayoMG/Mexico-Toy-Sales-Dashboard#:~:text=yesterday-,toy%20Dashboard.PNG,-Add%20files%20via)
+![](toy DAX.PNG)
 
 
 ## Analysis 
