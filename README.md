@@ -13,15 +13,15 @@ The goal of the analysis is to
 * Identify product categories that drive the biggest profits and verify if it is the same across store locations
 * Discover seasonal trends or patterns in the sales data if there’s any
 * Detect if there are lost of sales with out-of-stock products at certain locations
-* Ascertain the amount of money tied up in inventory at the toy stores and determine the period it will last.
+* Ascertain the amount of money tied up in inventory at the toy stores and forecast the period it will last.
 
 ## Data Source
-The data used for this analysis was found on maven analytics data playgroung. You can get the dataset and other dataset ![here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
+The data used for this analysis was found on maven analytics data playgroung. You can get the dataset and other datasets ![here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
 
 ## Skills and Concept Demonstrated
 Power BI Concepts like;
 * Transforming and cleaning data using Power Query Editor.
-* Merging tables to combine data from multiple sources.
+* Merging tables to generate more insights
 * Creating DAX functions for aggregation, filtering, and calculations.
 * Creating key performance indicators (KPIs) and other business calculations
 * Designing dashboard for a cohesive view of key performance indicators.
@@ -31,7 +31,7 @@ Power BI Concepts like;
 ## Data Transformation
 Imported the file into Power BI through Text/CSV then clicked on 'Tranform Data' and added other datasets into Power Query Editor.
 I transformed the data in Power Query, checked for Colum quality and consistency of data types
-Merged inventory and product table to calculate the cost of inventory as it’s only product table that contains the amount
+Merged inventory and product table using their primary key 'Product ID' to calculate the cost of inventory as it’s only product table that contains the amount
 Also in Power Query, I merged sales and product table to get sold product and some business calculations.
 * Tables Merged
 ![](tablesMerged.PNG)
@@ -50,9 +50,16 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 ![](toyDashboard.PNG)
 
 ## Analysis 
-
+* Top product category with the highest profits
+* Highest profits by store locations and profits for each product categories
+* Profits made in each months, quarter and year
+* Units of products in stock and out of stock products at different locations
+* Units and cost of inventory for each product categories and period it will last
+* Top stores with revenue
+* Units sold by each product categories
+* Using DAX, I calculated for total revenue, cost, profit, units sold, locations, product categories and many others
 
 ## Recommendation
 
 ## Thank you for reading.
-I am open for data roles.
+I am open to data roles.
