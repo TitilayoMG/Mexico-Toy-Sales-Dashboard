@@ -9,7 +9,7 @@ This sales analysis dashboard was analyzed on Power BI. The dataset used is a fi
 This project shows my ability to create dashboards with well-defined KPIs to provide a clear and measurable way to assess performance. I was able to align the dashboard with the organization's strategic objectives by highlighting the most critical metrics that directly contribute to business goals.
 
 ## Problem Statement
-The goal was to create a dashboard to help Maven Toys answer these questions:
+The goal was to create a dashboard to help Maven Toys:
 * Identify product categories that drive the biggest profits and verify if it is the same across store locations
 * Discover seasonal trends or patterns in the sales data if there’s any
 * Detect if there are lost of sales with out-of-stock products at certain locations
@@ -53,7 +53,7 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 * Downtown and Residential locations had Toys for their top product category. On the other hand, Electronics is the top product category for Commercial and Airport.
 * Total revenue trended upward boasting a remarkable increase from January 2023 to July 2023
 * Profit gained from Arts and Crafts continue to increase overtime.
-* Electronics category is the top product category with 20.80% contribution in terms of overall profit. 
+* Colorbuds under Electronics category is the top product category with 20.80% contribution in terms of overall profit. 
 * Games and Sports & Outdoors are most profitable in December 2017. On the other hand, Toys sales each month are always above average.
 
 ## Recommendation
