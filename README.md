@@ -9,7 +9,7 @@ This sales analysis dashboard was analyzed on Power BI. The dataset used is a fi
 This project shows my ability to create dashboards with well-defined KPIs to provide a clear and measurable way to assess performance. I was able to align the dashboard with the organization's strategic objectives by highlighting the most critical metrics that directly contribute to business goals.
 
 ## Problem Statement
-The goal of the analysis is to 
+The goal was to create a dashboard to help Maven Toys answer these questions:
 * Identify product categories that drive the biggest profits and verify if it is the same across store locations
 * Discover seasonal trends or patterns in the sales data if there’s any
 * Detect if there are lost of sales with out-of-stock products at certain locations
@@ -50,8 +50,8 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 ![](toyDashboard.PNG)
 
 ## Analysis 
-* Top product category with the highest profits
-* Highest profits by store locations and profits for each product categories
+* Downtown and Residential locations had Toys for their top product category. On the other hand, Electronics is the top product category for Commercial and Airport.
+* Total revenue trended upward boasting a remarkable increase from January 2023 to July 2023
 * Profits made in each months, quarter and year
 * Units of products in stock and out of stock products at different locations
 * Units and cost of inventory for each product categories and period it will last
@@ -60,6 +60,9 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 * Using DAX, I calculated for total revenue, cost, profit, units sold, locations, product categories and many others
 
 ## Recommendation
+* Check the opportunities of adding stores in Airports. Currently, there are only three stores and two of them are major contributors in profits.
+* The company should continue to focus on the growth of Arts & Crafts as their profit continue to increase overtime.
+
 
 ## Thank you for reading.
 I am open to data roles.
