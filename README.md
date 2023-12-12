@@ -52,7 +52,7 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 ## Analysis 
 * Downtown and Residential locations had Toys for their top product category. On the other hand, Electronics is the top product category for Commercial and Airport.
 * Total revenue trended upward boasting a remarkable increase from January 2023 to July 2023
-* Profits made in each months, quarter and year
+* Profit gained from Arts and Crafts continue to increase overtime.
 * Units of products in stock and out of stock products at different locations
 * Units and cost of inventory for each product categories and period it will last
 * Top stores with revenue
@@ -62,6 +62,7 @@ The dashboard highlight the key Performance Indicators. It shows the total reven
 ## Recommendation
 * Check the opportunities of adding stores in Airports. Currently, there are only three stores and two of them are major contributors in profits.
 * The company should continue to focus on the growth of Arts & Crafts as their profit continue to increase overtime.
+* Increase promotion in Ciudad de Mexico, Guadalajara, Hermosillo and Monterrey since majority of the stock cost are tied to these cities.
 
 
 ## Thank you for reading.
