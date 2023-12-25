@@ -4,7 +4,7 @@ This analysis is for a chain of toy stores in Mexico called Maven Toys. The dash
 ![](man-using-digital-tablet.jpg)
 
 ## Introduction
-This sales analysis dashboard was analyzed on Power BI. The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location. The dashboard is titled ‘Maven Toys Sales Dashboard’.
+This sales analysis dashboard is analyze on Power BI. The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location. The dashboard is titled ‘Maven Toys Sales Dashboard’.
 
 This project shows my ability to create dashboards with well-defined KPIs to provide a clear and measurable way to assess performance. I was able to align the dashboard with the organization's strategic objectives by highlighting the most critical metrics that directly contribute to business goals.
 
@@ -16,7 +16,7 @@ The goal was to create a dashboard to help Maven Toys:
 * Ascertain the amount of money tied up in inventory at the toy stores and forecast the period it will last.
 
 ## Data Source
-The data used for this analysis was found on maven analytics data playgroung. You can get the dataset and other datasets ![here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
+The data used for this analysis was found on maven analytics data playgroung. You can get the dataset and other datasets [here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
 
 ## Skills and Concept Demonstrated
 Power BI Concepts like;
@@ -30,8 +30,8 @@ Power BI Concepts like;
 
 ## Data Transformation
 Imported the file into Power BI through Text/CSV then clicked on 'Tranform Data' and added other datasets into Power Query Editor.
-I transformed the data in Power Query, checked for Colum quality and consistency of data types
-Merged inventory and product table using their primary key 'Product ID' to calculate the cost of inventory as it’s only product table that contains the amount
+I transformed the data in Power Query, checked for Colum quality and consistency of data types.
+Merged inventory and product table using their primary key 'Product ID' to calculate the cost of inventory as it’s only product table that contains the amount.
 Also in Power Query, I merged sales and product table to get sold product and some business calculations.
 * Tables Merged
 ![](tablesMerged.PNG)
