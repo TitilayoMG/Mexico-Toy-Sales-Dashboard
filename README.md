@@ -16,7 +16,7 @@ The goal was to create a dashboard to help Maven Toys:
 * Ascertain the amount of money tied up in inventory at the toy stores and forecast the period it will last.
 
 ## Data Source
-The data used for this analysis was found on maven analytics data playgroung. You can get the dataset and other datasets [here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
+The data used for this analysis was found on maven analytics data playground. You can get the dataset and other datasets [here](https://www.mavenanalytics.io/data-playground?page=6&pageSize=5)
 
 ## Skills and Concept Demonstrated
 Power BI Concepts like;
