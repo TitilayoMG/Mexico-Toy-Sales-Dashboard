@@ -4,7 +4,9 @@ This analysis is for a chain of toy stores in Mexico called Maven Toys. The dash
 ![](man-using-digital-tablet.jpg)
 
 ## Introduction
-This sales analysis dashboard is analyze on Power BI. The Regional Sales Managers have a monthly performance call with their Chief Operation Officer and need a dashboard they can use to track revenue trends, compare performance across stores and identify growing and declining product.  The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location.
+The Regional Sales Managers have a monthly performance call with their Chief Operation Officer and need a dashboard they can use to track revenue trends, compare performance across stores and identify growing and declining product. 
+
+This sales analysis dashboard is analyze on Power BI. The dataset used is a fictitious chain of toy stores in Mexico called Maven Toys which include information about products, stores, daily transactions, and current inventory levels at each location.
 
 This project shows my ability to create dashboards with well-defined KPIs to provide a clear and measurable way to assess performance. I was able to align the dashboard with the organization's strategic objectives by highlighting the most critical metrics that directly contribute to business goals.
 
